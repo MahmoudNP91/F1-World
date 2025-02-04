@@ -465,6 +465,7 @@ body{
     height: 100%;
     text-decoration: none;
     transition: 0.5s;
+    color: #18183A;
 }
 .sec2-icons a:hover, .sec4-icons a:hover{
     background-color: #af0000;
