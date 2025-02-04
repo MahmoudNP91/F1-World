@@ -424,8 +424,8 @@ body{
 
 .sec2-img-c:hover .sec2-img2{
     transform: rotateY(0deg);
-    opacity: 1;
     pointer-events: auto;
+    opacity: 1;
 }
 .sec2-desc,.sec4-desc{
     width: 100%;
