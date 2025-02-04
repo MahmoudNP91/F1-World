@@ -419,10 +419,12 @@ body{
     transition: 0.5s;
     pointer-events: none;
     transform-style: preserve-3d;
+    opacity: 0.2;
 }
 
 .sec2-img-c:hover .sec2-img2{
     transform: rotateY(0deg);
+    opacity: 1;
     pointer-events: auto;
 }
 .sec2-desc,.sec4-desc{
